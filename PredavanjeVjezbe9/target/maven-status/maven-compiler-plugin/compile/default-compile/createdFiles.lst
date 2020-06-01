@@ -1,0 +1,9 @@
+ffos\model\Kontakt.class
+ffos\Start.class
+ffos\model\Oznaka.class
+ffos\model\Entitet.class
+ffos\model\VrstaKontakta.class
+ffos\model\Osoba.class
+ffos\model\Sifrarnik.class
+.netbeans_automatic_build
+ffos\utility\HibernateUtil.class
